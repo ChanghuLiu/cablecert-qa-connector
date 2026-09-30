@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cablecert-qa": {
+      "type": "http",
+      "url": "https://cablecert.regevidencehub.com/mcp"
+    }
+  }
+}
